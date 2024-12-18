@@ -2,10 +2,7 @@
 
 Welcome to Fumohouse's GitHub page.
 
-This organization is currently being migrated to [Codeberg](https://codeberg.org/ksk).
-Repositories which have not received significant interaction (stars, forks) will
-be deleted here after migration. Repositories deemed unsuitable for migration
-(for copyright/license reasons) will remain here for now.
-
-Future activity on this organization will be limited to maintenance of remaining
+This organization has migrated to [Codeberg](https://codeberg.org/ksk). Future
+activity on this organization will be limited to maintenance/bridging of
+remaining repositories. Contributions are still accepted on bridged
 repositories.
